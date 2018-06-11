@@ -331,4 +331,6 @@ ASALocalRun/
 
 # FlexBision created files
 *.flex.cpp
+*.flex.h
 *.tab.cpp
+*.tab.h
